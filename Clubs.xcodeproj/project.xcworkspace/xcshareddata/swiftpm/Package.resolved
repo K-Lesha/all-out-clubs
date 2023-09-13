@@ -1,0 +1,86 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "b2fa556e4e48cbf06cf8c63def138c98f4b811fa",
+        "version" : "5.8.0"
+      }
+    },
+    {
+      "identity" : "alamofireimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/AlamofireImage.git",
+      "state" : {
+        "revision" : "98cbb00ce0ec5fc8e52a5b50a6bfc08d3e5aee10",
+        "version" : "4.2.0"
+      }
+    },
+    {
+      "identity" : "datasource",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/allaboutapps/DataSource.git",
+      "state" : {
+        "revision" : "a54cc442a034aa9325d7840bfb8ea34e8a403dff",
+        "version" : "8.1.5"
+      }
+    },
+    {
+      "identity" : "differ",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tonyarnold/Differ.git",
+      "state" : {
+        "revision" : "5520fda947f1f9777a806389c2ba587219bc0538",
+        "version" : "1.4.6"
+      }
+    },
+    {
+      "identity" : "fetch",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/allaboutapps/Fetch.git",
+      "state" : {
+        "revision" : "5797aef4a26cc9459f3cb95e0f25209e93d3b8aa",
+        "version" : "3.1.6"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "revision" : "84e546727d66f1adc5439debad16270d0fdd04e7",
+        "version" : "4.2.2"
+      }
+    },
+    {
+      "identity" : "logbook",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/allaboutapps/Logbook.git",
+      "state" : {
+        "revision" : "4183352421e50bec8f444445b925ee7ed65d70d4",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "statefulviewcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/allaboutapps/StatefulViewController.git",
+      "state" : {
+        "revision" : "38bd7ebe0f79ab6cc788e5029e55a98a2e0e4706",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "toolbox",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/allaboutapps/Toolbox.git",
+      "state" : {
+        "revision" : "5467e14e054465b5014076e784d4f2a7c178f3de",
+        "version" : "5.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}

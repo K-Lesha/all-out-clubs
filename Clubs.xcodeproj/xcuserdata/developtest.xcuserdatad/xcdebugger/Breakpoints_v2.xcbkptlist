@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7091204A-ABD5-4EA5-B01F-6B32E890C090"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A60F4170-316A-4C3A-BF1C-EBF6286B7256"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B20F5C0-675F-44A7-8BB5-DC30872810C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "start(window:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCB388BD-2E7C-4274-8943-6B7FA1C29B25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(rootViewController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97CF0DDB-796E-49A6-996B-8D3D208F0FA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(rootViewController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83FA0766-43A6-4DA0-97A7-913C7EF1CBA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "prepareForModalPresentation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E17ECE7-C1FB-4473-A901-CB4157186F51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "addChild(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DED7A022-2F17-4C9F-AE1F-2F6BFB2D473D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "removeChild(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DED7A022-2F17-4C9F-AE1F-2F6BFB2D473D - 3d6865af9e6bed51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Toolbox.Coordinator.removeChild(Toolbox.Coordinator) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DED7A022-2F17-4C9F-AE1F-2F6BFB2D473D - 3d6865af9e6bed51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Toolbox.Coordinator.removeChild(Toolbox.Coordinator) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6F823D9-C139-4D13-A004-D10F40275F9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "removeAllChildren()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37A41BD0-C60A-4C4A-8DF7-F2940BA023D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "present(_:animated:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5661ED55-18ED-422D-B3F7-8F638344A59F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "dismissChildCoordinator(animated:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5661ED55-18ED-422D-B3F7-8F638344A59F - 636a49b1d219ce7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Toolbox.Coordinator.dismissChildCoordinator(animated: Swift.Bool, completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5661ED55-18ED-422D-B3F7-8F638344A59F - c8cc0d55e7bdd7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Toolbox.Coordinator) -&gt; Swift.Bool in Toolbox.Coordinator.dismissChildCoordinator(animated: Swift.Bool, completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE7E81CC-F863-40BF-B040-8357CB6693B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "debugStructure(level:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "741D122C-A72B-49A0-9432-8087DEAC2112"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "debugInfo(level:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "331EF300-DD5F-4138-B4B0-BAD492FDE5DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "printRootDebugStructure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89D28D53-910B-4C8B-B4C0-48FFA02AC652"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "targetAdaptiveDelegate"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD6E84B1-8254-4E6D-B175-7B7330EC6ADF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "Coordinator"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E53396B-2D94-46F9-AA59-0D41529C90B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "presentationControllerDidDismiss(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E53396B-2D94-46F9-AA59-0D41529C90B9 - 68e8a565335e1d60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Toolbox.Coordinator.presentationControllerDidDismiss(__C.UIPresentationController) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "1E53396B-2D94-46F9-AA59-0D41529C90B9 - 68e8a565335e1d60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Toolbox.Coordinator.presentationControllerDidDismiss(__C.UIPresentationController) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "506AABBD-A419-468B-80FA-469F32336F4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Clubs-aryjpshujqslhvgtalyeaelqqumq/SourcePackages/checkouts/Toolbox/Sources/Toolbox/Coordinators/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "forwardingTarget(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D091E86A-8920-4135-A2E6-436022CD977F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D091E86A-8920-4135-A2E6-436022CD977F - f04e241a36335d73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainFeature.MainCoordinator.start() -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "D091E86A-8920-4135-A2E6-436022CD977F - f04e241a36335df7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainFeature.MainCoordinator.start() -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13428FEF-183D-424B-9920-292661226FCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "reset(animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13428FEF-183D-424B-9920-292661226FCD - 95f300932cccb662"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainFeature.MainCoordinator.reset(animated: Swift.Bool) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "13428FEF-183D-424B-9920-292661226FCD - 85f354617f4cc571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Toolbox.Coordinator) -&gt; () in MainFeature.MainCoordinator.reset(animated: Swift.Bool) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "13428FEF-183D-424B-9920-292661226FCD - 95f300932ccb49ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainFeature.MainCoordinator.reset(animated: Swift.Bool) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "13428FEF-183D-424B-9920-292661226FCD - 85f354617f4b3af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Toolbox.Coordinator) -&gt; () in MainFeature.MainCoordinator.reset(animated: Swift.Bool) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/MainFeature/MainCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CC1808C-1F01-4D8F-B22E-1ABD73BF7696"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "start(window:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CC1808C-1F01-4D8F-B22E-1ABD73BF7696 - 431ea08926e2b4e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clubs.AppCoordinator.start(window: __C.UIWindow) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Clubs/Code/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "6CC1808C-1F01-4D8F-B22E-1ABD73BF7696 - ea67ca1af3c84667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Networking.Credentials&gt;) -&gt; () in Clubs.AppCoordinator.start(window: __C.UIWindow) -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Clubs/Code/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1284FF4-C14B-4199-9ABE-7BE07BDED069"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "start(window:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "754AD342-6D25-461B-92A7-5DCBB30611C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "create()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84A8816A-5914-47BC-8434-DAED6EDE9ABA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "loginButton"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF12EAC9-66E4-4950-BA2C-4DE68950C314"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26DF106D-0945-4DB9-AA78-0F1900048196"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setupViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "971A0766-440F-4776-A287-B1E0A4203687"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "971A0766-440F-4776-A287-B1E0A4203687 - 36eaa22d045da546"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthFeature.LoginViewController.setupConstraints() -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "971A0766-440F-4776-A287-B1E0A4203687 - 1af50801512f50fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIView) -&gt; Swift.Array&lt;__C.NSLayoutConstraint&gt; in AuthFeature.LoginViewController.setupConstraints() -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "448D92A0-619C-4714-938A-AD95D76F4699"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/AuthFeature/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "handleLoginButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56D2B86D-E7BB-40F6-A711-97FFEC54D0AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Core/Sources/Assets/Strings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "tr(_:_:_:fallback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56D2B86D-E7BB-40F6-A711-97FFEC54D0AE - 2b36147afa64f054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Assets.Strings.tr(_: Swift.String, _: Swift.String, _: Swift.CVarArg..., fallback: Swift.String) -&gt; Swift.String"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Core/Sources/Assets/Strings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "56D2B86D-E7BB-40F6-A711-97FFEC54D0AE - 2b36147afa64f012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Assets.Strings.tr(_: Swift.String, _: Swift.String, _: Swift.CVarArg..., fallback: Swift.String) -&gt; Swift.String"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Core/Sources/Assets/Strings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC2B15E1-2BF5-46A7-A1A3-2D982E0C2224"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC2B15E1-2BF5-46A7-A1A3-2D982E0C2224 - 32a583d04283437b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ExampleFeature.ExampleViewModel.fetch() async -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "AC2B15E1-2BF5-46A7-A1A3-2D982E0C2224 - 32a583d04283437b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ExampleFeature.ExampleViewModel.fetch() async -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FD830AE-58B5-4A20-8B53-0422FFDDB921"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FD830AE-58B5-4A20-8B53-0422FFDDB921 - 32a583d0428343c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ExampleFeature.ExampleViewModel.fetch() async -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "0FD830AE-58B5-4A20-8B53-0422FFDDB921 - edea6ad09fe012d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ExampleFeature.ExampleViewModel.fetch() async -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "0FD830AE-58B5-4A20-8B53-0422FFDDB921 - 4071f5cedbfc15c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ExampleFeature.ExampleViewModel.fetch() async -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0FD830AE-58B5-4A20-8B53-0422FFDDB921 - 917dd3624a9bec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ExampleFeature.ExampleViewModel.fetch() async -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "0FD830AE-58B5-4A20-8B53-0422FFDDB921 - 32a583d042834263"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ExampleFeature.ExampleViewModel.fetch() async -&gt; ()"
+                  moduleName = "Clubs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developtest/Desktop/clubs-ios/Modules/Features/Sources/ExampleFeature/ExampleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE2C01A8-BD3B-47F9-B1AE-5D70BC5C32CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Core/Sources/Networking/API.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5468B8C7-AA0B-42CD-A9AE-1187612F055C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Features/Sources/ExampleFeature/ClubsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80E2EC06-6400-412C-B3BB-56525833CD8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "presentLogin(animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87A9D791-6A5B-4193-86A4-456B6A1C699D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "start(window:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E58F29D6-013D-4013-86A4-0B1CF020808A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clubs/Code/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "start(window:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
